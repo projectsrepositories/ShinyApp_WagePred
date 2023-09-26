@@ -1,0 +1,599 @@
+"","age","maritl","race","education","jobclass","wage"
+"161300",45,"2. Married","1. White","3. Some College","1. Industrial",130.982177377461
+"155159",43,"2. Married","3. Asian","4. College Grad","2. Information",154.68529299563
+"81404",52,"2. Married","1. White","2. HS Grad","2. Information",128.680488220624
+"305116",40,"2. Married","1. White","4. College Grad","2. Information",160.642475408263
+"7690",51,"2. Married","1. White","3. Some College","2. Information",101.402052302992
+"228851",32,"2. Married","1. White","3. Some College","1. Industrial",105.927810775063
+"81383",28,"2. Married","3. Asian","4. College Grad","1. Industrial",34.6074177301288
+"8692",50,"1. Never Married","4. Other","1. < HS Grad","1. Industrial",73.7757432746946
+"450864",30,"1. Never Married","1. White","5. Advanced Degree","2. Information",114.475713290347
+"161065",34,"2. Married","1. White","2. HS Grad","2. Information",111.720849360989
+"13479",69,"2. Married","1. White","2. HS Grad","1. Industrial",77.7376033039781
+"81494",41,"2. Married","1. White","3. Some College","1. Industrial",87.9810327856054
+"159207",49,"2. Married","1. White","3. Some College","2. Information",123.336103962059
+"87299",58,"2. Married","1. White","2. HS Grad","2. Information",94.0727147457005
+"374859",44,"1. Never Married","1. White","1. < HS Grad","1. Industrial",87.9810327856054
+"11710",47,"2. Married","3. Asian","5. Advanced Degree","2. Information",128.680488220624
+"161431",24,"1. Never Married","1. White","1. < HS Grad","1. Industrial",51.521956314716
+"156110",33,"4. Divorced","1. White","1. < HS Grad","1. Industrial",76.8936025176112
+"14148",34,"2. Married","1. White","5. Advanced Degree","2. Information",107.903923866876
+"87463",54,"2. Married","1. White","2. HS Grad","2. Information",111.720849360989
+"377517",50,"1. Never Married","1. White","4. College Grad","2. Information",114.475713290347
+"231592",46,"4. Divorced","1. White","3. Some College","1. Industrial",95.2307125669819
+"156310",63,"4. Divorced","2. Black","3. Some College","1. Industrial",64.2743972206327
+"379991",66,"2. Married","1. White","1. < HS Grad","1. Industrial",81.2832532842527
+"307464",51,"4. Divorced","1. White","2. HS Grad","1. Industrial",94.0727147457005
+"449246",55,"2. Married","3. Asian","5. Advanced Degree","1. Industrial",114.475713290347
+"447751",43,"5. Separated","1. White","1. < HS Grad","2. Information",86.6951548289402
+"230398",38,"2. Married","1. White","4. College Grad","2. Information",162.946460744664
+"84600",41,"2. Married","1. White","1. < HS Grad","1. Industrial",90.4819133566401
+"160246",61,"2. Married","1. White","5. Advanced Degree","1. Industrial",79.1280844956297
+"375007",52,"4. Divorced","1. White","5. Advanced Degree","2. Information",132.487821126123
+"303430",43,"2. Married","1. White","5. Advanced Degree","2. Information",141.77517233318
+"159871",35,"1. Never Married","1. White","2. HS Grad","2. Information",88.9296066367913
+"82108",26,"1. Never Married","2. Black","2. HS Grad","2. Information",81.2832532842527
+"10499",51,"1. Never Married","1. White","2. HS Grad","1. Industrial",65.1108537153447
+"84127",44,"4. Divorced","1. White","5. Advanced Degree","2. Information",120.589436530402
+"159285",33,"2. Married","1. White","1. < HS Grad","1. Industrial",81.2832532842527
+"9786",53,"2. Married","1. White","2. HS Grad","2. Information",75.0431540173515
+"12122",64,"2. Married","1. White","4. College Grad","2. Information",49.5553381215226
+"228212",37,"4. Divorced","1. White","1. < HS Grad","2. Information",98.5993438603892
+"88028",52,"2. Married","1. White","4. College Grad","1. Industrial",99.6894636984864
+"13626",27,"2. Married","1. White","4. College Grad","1. Industrial",111.720849360989
+"154195",37,"2. Married","2. Black","3. Some College","1. Industrial",151.591484239814
+"84164",58,"2. Married","1. White","3. Some College","1. Industrial",152.216806827106
+"85545",27,"2. Married","1. White","1. < HS Grad","1. Industrial",65.1108537153447
+"232371",29,"1. Never Married","3. Asian","4. College Grad","1. Industrial",160.642475408263
+"233497",27,"2. Married","1. White","1. < HS Grad","2. Information",73.7757432746946
+"307024",63,"2. Married","2. Black","5. Advanced Degree","2. Information",318.342430056529
+"233435",49,"1. Never Married","2. Black","4. College Grad","1. Industrial",141.77517233318
+"12288",39,"1. Never Married","1. White","5. Advanced Degree","2. Information",130.982177377461
+"303912",25,"1. Never Married","4. Other","1. < HS Grad","1. Industrial",73.7757432746946
+"377452",35,"2. Married","1. White","5. Advanced Degree","2. Information",154.990260276812
+"449474",46,"2. Married","1. White","2. HS Grad","1. Industrial",104.921506533664
+"375024",27,"1. Never Married","2. Black","2. HS Grad","1. Industrial",73.7757432746946
+"307663",59,"1. Never Married","1. White","2. HS Grad","2. Information",81.2832532842527
+"303900",60,"2. Married","1. White","2. HS Grad","2. Information",55.7673905084923
+"453852",49,"1. Never Married","1. White","2. HS Grad","1. Industrial",75.3556793180091
+"8653",26,"1. Never Married","1. White","5. Advanced Degree","2. Information",114.475713290347
+"305209",22,"1. Never Married","1. White","2. HS Grad","1. Industrial",81.2832532842527
+"81173",40,"2. Married","1. White","2. HS Grad","2. Information",68.5721657022738
+"153731",48,"2. Married","1. White","2. HS Grad","1. Industrial",97.4932940453934
+"305165",35,"2. Married","1. White","4. College Grad","2. Information",118.884359339886
+"378023",49,"2. Married","3. Asian","2. HS Grad","2. Information",65.1108537153447
+"305871",29,"1. Never Married","1. White","2. HS Grad","1. Industrial",73.7757432746946
+"449852",39,"2. Married","1. White","5. Advanced Degree","2. Information",156.503510882633
+"301195",48,"2. Married","1. White","4. College Grad","2. Information",104.921506533664
+"304988",48,"2. Married","1. White","2. HS Grad","1. Industrial",109.833985642199
+"158570",22,"1. Never Married","1. White","3. Some College","1. Industrial",43.7351116779821
+"379620",34,"2. Married","1. White","5. Advanced Degree","1. Industrial",118.884359339886
+"449489",38,"2. Married","1. White","2. HS Grad","1. Industrial",148.413159102577
+"10076",25,"1. Never Married","2. Black","3. Some College","2. Information",94.0727147457005
+"154477",58,"1. Never Married","1. White","2. HS Grad","2. Information",65.1108537153447
+"13996",25,"1. Never Married","1. White","3. Some College","1. Industrial",81.2832532842527
+"305437",23,"2. Married","1. White","2. HS Grad","1. Industrial",81.226746312023
+"303072",46,"2. Married","2. Black","2. HS Grad","2. Information",76.8936025176112
+"302515",25,"1. Never Married","4. Other","2. HS Grad","1. Industrial",92.8958447894966
+"8318",30,"1. Never Married","1. White","4. College Grad","1. Industrial",87.9810327856054
+"82172",54,"2. Married","2. Black","2. HS Grad","2. Information",109.833985642199
+"87260",30,"2. Married","1. White","3. Some College","1. Industrial",118.884359339886
+"7980",23,"1. Never Married","1. White","2. HS Grad","1. Industrial",90.4819133566401
+"159410",26,"1. Never Married","1. White","3. Some College","1. Industrial",73.7757432746946
+"378567",57,"2. Married","1. White","4. College Grad","2. Information",118.884359339886
+"449322",53,"2. Married","2. Black","3. Some College","2. Information",123.089699847943
+"447585",25,"1. Never Married","2. Black","5. Advanced Degree","2. Information",118.884359339886
+"154099",42,"2. Married","1. White","3. Some College","2. Information",96.3706528322308
+"450052",50,"2. Married","1. White","2. HS Grad","1. Industrial",94.0727147457005
+"87860",51,"2. Married","1. White","4. College Grad","1. Industrial",150.962783462143
+"448723",50,"1. Never Married","1. White","5. Advanced Degree","2. Information",157.700527725737
+"157194",31,"2. Married","1. White","4. College Grad","1. Industrial",81.2832532842527
+"306995",49,"2. Married","1. White","2. HS Grad","2. Information",87.9810327856054
+"12086",61,"2. Married","1. White","4. College Grad","2. Information",143.808556824369
+"81085",45,"2. Married","1. White","4. College Grad","1. Industrial",272.294783220064
+"301266",50,"2. Married","1. White","3. Some College","2. Information",89.2428846644714
+"451170",52,"2. Married","1. White","2. HS Grad","1. Industrial",119.742556289908
+"378911",46,"2. Married","1. White","2. HS Grad","1. Industrial",157.700527725737
+"379907",43,"2. Married","1. White","4. College Grad","1. Industrial",104.921506533664
+"160678",33,"2. Married","1. White","2. HS Grad","2. Information",104.921506533664
+"86604",38,"2. Married","1. White","3. Some College","2. Information",176.989650489877
+"231182",56,"2. Married","2. Black","3. Some College","2. Information",127.115743812184
+"306711",44,"1. Never Married","1. White","2. HS Grad","1. Industrial",97.4932940453934
+"449980",27,"1. Never Married","1. White","2. HS Grad","1. Industrial",65.1108537153447
+"448869",33,"1. Never Married","1. White","3. Some College","1. Industrial",79.8549003093467
+"304493",50,"2. Married","3. Asian","3. Some College","1. Industrial",118.884359339886
+"303813",41,"2. Married","1. White","5. Advanced Degree","2. Information",284.524740902214
+"376113",23,"2. Married","1. White","4. College Grad","1. Industrial",118.884359339886
+"10753",30,"2. Married","1. White","4. College Grad","2. Information",114.475713290347
+"305092",45,"2. Married","1. White","2. HS Grad","1. Industrial",130.982177377461
+"154582",38,"1. Never Married","1. White","3. Some College","2. Information",314.32933644529
+"155729",47,"2. Married","1. White","2. HS Grad","1. Industrial",54.5981500331442
+"159441",52,"2. Married","1. White","2. HS Grad","1. Industrial",92.1611220323496
+"81457",27,"1. Never Married","1. White","1. < HS Grad","2. Information",84.0459576539924
+"159717",56,"2. Married","1. White","4. College Grad","1. Industrial",130.982177377461
+"8550",42,"1. Never Married","1. White","3. Some College","1. Industrial",104.921506533664
+"159735",25,"1. Never Married","1. White","1. < HS Grad","1. Industrial",81.2832532842527
+"86091",42,"2. Married","1. White","2. HS Grad","2. Information",106.921814091211
+"160130",58,"2. Married","1. White","4. College Grad","2. Information",32.3664131748549
+"306716",25,"1. Never Married","1. White","4. College Grad","1. Industrial",104.921506533664
+"155698",50,"2. Married","1. White","5. Advanced Degree","2. Information",121.010826565755
+"159956",54,"2. Married","1. White","3. Some College","1. Industrial",148.413159102577
+"451254",28,"1. Never Married","1. White","2. HS Grad","1. Industrial",66.2294082943902
+"380078",36,"2. Married","1. White","3. Some College","1. Industrial",97.1582750436503
+"159834",38,"2. Married","1. White","4. College Grad","1. Industrial",81.2832532842527
+"380902",59,"4. Divorced","1. White","5. Advanced Degree","2. Information",73.7757432746946
+"232850",25,"2. Married","1. White","3. Some College","2. Information",94.0727147457005
+"81575",37,"2. Married","2. Black","4. College Grad","2. Information",104.921506533664
+"232830",32,"2. Married","1. White","2. HS Grad","1. Industrial",76.8936025176112
+"160160",62,"2. Married","1. White","3. Some College","1. Industrial",111.720849360989
+"380398",52,"2. Married","1. White","5. Advanced Degree","1. Industrial",149.695042068453
+"306356",29,"2. Married","1. White","4. College Grad","1. Industrial",87.9810327856054
+"229647",25,"1. Never Married","1. White","3. Some College","2. Information",99.6894636984864
+"377052",43,"2. Married","1. White","3. Some College","2. Information",134.705375118879
+"11809",39,"2. Married","1. White","5. Advanced Degree","2. Information",160.642475408263
+"447577",27,"1. Never Married","1. White","4. College Grad","2. Information",81.2832532842527
+"449365",47,"2. Married","1. White","2. HS Grad","1. Industrial",114.477521132502
+"378727",48,"2. Married","2. Black","2. HS Grad","1. Industrial",111.720849360989
+"453712",42,"2. Married","1. White","5. Advanced Degree","2. Information",182.020620963512
+"154504",30,"1. Never Married","3. Asian","2. HS Grad","2. Information",99.6894636984864
+"231749",54,"5. Separated","1. White","5. Advanced Degree","2. Information",277.79948020565
+"154617",52,"2. Married","1. White","4. College Grad","2. Information",96.3706528322308
+"84494",44,"1. Never Married","2. Black","4. College Grad","2. Information",109.833985642199
+"378589",41,"2. Married","1. White","1. < HS Grad","1. Industrial",115.375038556391
+"159137",43,"2. Married","1. White","2. HS Grad","1. Industrial",70.9095858696657
+"450568",52,"2. Married","1. White","3. Some College","1. Industrial",145.143601176911
+"10997",24,"1. Never Married","1. White","2. HS Grad","1. Industrial",76.8936025176112
+"377128",40,"2. Married","1. White","3. Some College","1. Industrial",154.68529299563
+"302635",48,"1. Never Married","3. Asian","2. HS Grad","1. Industrial",65.1108537153447
+"8793",56,"2. Married","1. White","2. HS Grad","1. Industrial",97.4932940453934
+"378086",45,"2. Married","1. White","4. College Grad","1. Industrial",120.589436530402
+"453319",51,"2. Married","1. White","5. Advanced Degree","2. Information",267.901086855275
+"452452",38,"4. Divorced","1. White","3. Some College","1. Industrial",109.833985642199
+"233667",63,"2. Married","1. White","3. Some College","1. Industrial",134.705375118879
+"153785",56,"2. Married","1. White","1. < HS Grad","1. Industrial",127.901232979118
+"306904",39,"2. Married","1. White","5. Advanced Degree","1. Industrial",198.350290464385
+"9761",49,"2. Married","1. White","3. Some College","1. Industrial",92.8958447894966
+"379806",58,"2. Married","1. White","4. College Grad","1. Industrial",79.8549003093467
+"231066",44,"1. Never Married","1. White","4. College Grad","2. Information",277.79948020565
+"375298",55,"2. Married","1. White","2. HS Grad","1. Industrial",127.115743812184
+"154047",30,"2. Married","4. Other","1. < HS Grad","2. Information",123.089699847943
+"378052",23,"2. Married","1. White","4. College Grad","1. Industrial",36.6737041960799
+"155909",60,"2. Married","1. White","5. Advanced Degree","1. Industrial",104.921506533664
+"375457",34,"2. Married","2. Black","1. < HS Grad","2. Information",74.412963512917
+"82560",33,"2. Married","1. White","5. Advanced Degree","2. Information",185.918662879754
+"451548",58,"2. Married","1. White","3. Some College","2. Information",145.143601176911
+"449353",31,"2. Married","3. Asian","4. College Grad","2. Information",166.324941233877
+"306810",52,"2. Married","1. White","4. College Grad","2. Information",139.703071527658
+"155681",70,"2. Married","1. White","2. HS Grad","1. Industrial",78.3924668009837
+"157882",34,"2. Married","3. Asian","4. College Grad","2. Information",148.413159102577
+"302173",38,"2. Married","1. White","2. HS Grad","1. Industrial",87.9810327856054
+"377645",52,"1. Never Married","1. White","4. College Grad","2. Information",65.1108537153447
+"155985",33,"2. Married","1. White","4. College Grad","2. Information",123.089699847943
+"302080",53,"2. Married","1. White","4. College Grad","2. Information",193.452606894109
+"231750",36,"2. Married","1. White","5. Advanced Degree","1. Industrial",179.214858036271
+"81174",50,"2. Married","1. White","4. College Grad","2. Information",94.0727147457005
+"82251",40,"2. Married","1. White","3. Some College","2. Information",89.2428846644714
+"14481",44,"2. Married","1. White","3. Some College","1. Industrial",101.82435207568
+"81623",25,"1. Never Married","1. White","4. College Grad","2. Information",91.6992261117042
+"161366",56,"2. Married","1. White","2. HS Grad","2. Information",134.705375118879
+"11991",38,"2. Married","1. White","3. Some College","2. Information",121.262745732618
+"452407",55,"2. Married","1. White","2. HS Grad","1. Industrial",118.884359339886
+"231895",33,"2. Married","1. White","4. College Grad","2. Information",136.15771083723
+"156206",40,"4. Divorced","1. White","2. HS Grad","1. Industrial",101.82435207568
+"160043",43,"4. Divorced","1. White","2. HS Grad","2. Information",72.4793162971252
+"448635",33,"2. Married","1. White","5. Advanced Degree","2. Information",267.901086855275
+"87714",58,"2. Married","1. White","2. HS Grad","2. Information",102.870246933215
+"14549",29,"2. Married","1. White","3. Some College","1. Industrial",102.870246933215
+"378744",68,"2. Married","1. White","2. HS Grad","1. Industrial",109.833985642199
+"12453",39,"2. Married","1. White","1. < HS Grad","2. Information",67.8625234113681
+"230457",49,"2. Married","1. White","3. Some College","1. Industrial",165.208773767255
+"447527",36,"1. Never Married","1. White","2. HS Grad","1. Industrial",81.2832532842527
+"154701",44,"2. Married","3. Asian","2. HS Grad","2. Information",112.6488963421
+"453719",54,"2. Married","1. White","2. HS Grad","2. Information",76.8936025176112
+"81823",33,"1. Never Married","2. Black","2. HS Grad","2. Information",63.7733911962488
+"155141",28,"2. Married","1. White","2. HS Grad","2. Information",84.0459576539924
+"306511",26,"2. Married","1. White","2. HS Grad","1. Industrial",66.9616443217359
+"448089",48,"1. Never Married","1. White","5. Advanced Degree","2. Information",148.413159102577
+"13960",32,"2. Married","1. White","2. HS Grad","2. Information",112.6488963421
+"230371",23,"1. Never Married","1. White","1. < HS Grad","1. Industrial",65.1108537153447
+"304137",31,"1. Never Married","1. White","5. Advanced Degree","2. Information",176.989650489877
+"159388",55,"2. Married","1. White","4. College Grad","1. Industrial",142.634472767972
+"304858",44,"2. Married","1. White","5. Advanced Degree","2. Information",160.642475408263
+"154901",60,"2. Married","1. White","1. < HS Grad","1. Industrial",73.7757432746946
+"81954",42,"2. Married","1. White","5. Advanced Degree","2. Information",160.642475408263
+"379839",36,"2. Married","1. White","1. < HS Grad","1. Industrial",87.9823064294987
+"161327",46,"4. Divorced","1. White","3. Some College","1. Industrial",126.323880709786
+"379315",34,"2. Married","1. White","2. HS Grad","1. Industrial",114.475713290347
+"230661",51,"2. Married","2. Black","2. HS Grad","1. Industrial",94.0727147457005
+"13060",28,"5. Separated","1. White","2. HS Grad","1. Industrial",94.0727147457005
+"12837",43,"2. Married","1. White","2. HS Grad","2. Information",109.833985642199
+"81373",60,"1. Never Married","2. Black","1. < HS Grad","2. Information",77.0452008528242
+"229256",32,"2. Married","1. White","3. Some College","1. Industrial",118.884359339886
+"302024",60,"2. Married","1. White","2. HS Grad","2. Information",101.82435207568
+"378489",46,"2. Married","1. White","2. HS Grad","1. Industrial",166.324941233877
+"153315",24,"1. Never Married","1. White","4. College Grad","2. Information",99.6894636984864
+"451096",27,"2. Married","1. White","3. Some College","1. Industrial",90.4819133566401
+"158200",32,"2. Married","1. White","1. < HS Grad","1. Industrial",66.9616443217359
+"9638",47,"2. Married","1. White","3. Some College","2. Information",148.413159102577
+"230090",50,"4. Divorced","1. White","5. Advanced Degree","2. Information",120.166119635421
+"234336",47,"2. Married","1. White","5. Advanced Degree","2. Information",112.6488963421
+"376569",60,"2. Married","1. White","2. HS Grad","2. Information",95.6888119067371
+"14455",36,"1. Never Married","1. White","3. Some College","2. Information",123.089699847943
+"304663",28,"1. Never Married","1. White","3. Some College","2. Information",99.6894636984864
+"380220",35,"2. Married","1. White","3. Some College","1. Industrial",96.3706528322308
+"12233",34,"1. Never Married","1. White","2. HS Grad","1. Industrial",104.921506533664
+"153469",53,"2. Married","1. White","4. College Grad","1. Industrial",126.957885677185
+"307337",36,"1. Never Married","1. White","2. HS Grad","1. Industrial",87.9810327856054
+"305515",22,"1. Never Married","1. White","2. HS Grad","1. Industrial",70.6610476694407
+"158406",49,"2. Married","1. White","4. College Grad","1. Industrial",128.680488220624
+"155833",46,"2. Married","1. White","3. Some College","1. Industrial",130.982177377461
+"377324",53,"2. Married","1. White","2. HS Grad","1. Industrial",107.903923866876
+"154537",30,"2. Married","1. White","3. Some College","2. Information",109.833985642199
+"83048",51,"2. Married","1. White","4. College Grad","2. Information",88.8315691738134
+"376922",55,"2. Married","1. White","5. Advanced Degree","2. Information",166.324941233877
+"81256",31,"1. Never Married","2. Black","1. < HS Grad","2. Information",109.833985642199
+"306063",43,"4. Divorced","1. White","1. < HS Grad","2. Information",100.099662492042
+"86261",43,"1. Never Married","1. White","3. Some College","2. Information",91.6992261117042
+"233733",54,"2. Married","1. White","2. HS Grad","1. Industrial",115.375038556391
+"85295",44,"2. Married","1. White","5. Advanced Degree","1. Industrial",163.515863976238
+"13498",31,"1. Never Married","1. White","1. < HS Grad","1. Industrial",40.4056652596845
+"80239",31,"2. Married","2. Black","2. HS Grad","1. Industrial",84.0459576539924
+"453715",45,"2. Married","1. White","3. Some College","1. Industrial",166.324941233877
+"381016",35,"5. Separated","1. White","4. College Grad","2. Information",139.00340805947
+"233584",37,"2. Married","1. White","4. College Grad","1. Industrial",180.779952229859
+"448801",37,"1. Never Married","2. Black","3. Some College","1. Industrial",94.0727147457005
+"306349",55,"2. Married","1. White","3. Some College","1. Industrial",130.220832358777
+"231483",39,"2. Married","1. White","2. HS Grad","1. Industrial",148.413159102577
+"231489",51,"2. Married","1. White","4. College Grad","2. Information",130.982177377461
+"376459",38,"2. Married","2. Black","1. < HS Grad","1. Industrial",87.9810327856054
+"303231",61,"2. Married","1. White","4. College Grad","2. Information",145.143601176911
+"159256",40,"4. Divorced","1. White","2. HS Grad","2. Information",97.4932940453934
+"7550",58,"2. Married","1. White","5. Advanced Degree","2. Information",59.0970640815891
+"378323",39,"1. Never Married","1. White","5. Advanced Degree","2. Information",118.884359339886
+"87661",18,"1. Never Married","1. White","2. HS Grad","1. Industrial",55.9974338324572
+"157381",48,"2. Married","1. White","3. Some College","1. Industrial",118.884359339886
+"10930",40,"2. Married","1. White","3. Some College","2. Information",120.926701544426
+"160307",59,"2. Married","1. White","3. Some College","1. Industrial",107.903923866876
+"304303",40,"2. Married","1. White","5. Advanced Degree","2. Information",140.398200161944
+"153765",53,"2. Married","1. White","3. Some College","1. Industrial",268.266292012557
+"153375",48,"2. Married","1. White","2. HS Grad","1. Industrial",109.833985642199
+"375523",34,"2. Married","1. White","2. HS Grad","1. Industrial",99.6894636984864
+"451283",38,"2. Married","2. Black","2. HS Grad","2. Information",311.934568896444
+"14519",51,"2. Married","1. White","4. College Grad","2. Information",109.833985642199
+"10984",32,"1. Never Married","2. Black","3. Some College","2. Information",47.933671329738
+"231862",27,"2. Married","1. White","4. College Grad","2. Information",104.921506533664
+"234530",60,"2. Married","2. Black","2. HS Grad","1. Industrial",120.926701544426
+"230114",53,"2. Married","1. White","3. Some College","1. Industrial",120.589436530402
+"376579",47,"2. Married","1. White","5. Advanced Degree","2. Information",148.413159102577
+"305415",47,"2. Married","1. White","4. College Grad","1. Industrial",65.1108537153447
+"12519",23,"1. Never Married","1. White","2. HS Grad","1. Industrial",54.5981500331442
+"448698",34,"1. Never Married","1. White","4. College Grad","2. Information",87.9810327856054
+"154709",37,"2. Married","1. White","4. College Grad","2. Information",118.884359339886
+"379618",37,"2. Married","1. White","4. College Grad","2. Information",161.914951381929
+"161267",22,"1. Never Married","1. White","3. Some College","1. Industrial",73.7757432746946
+"305946",59,"2. Married","1. White","3. Some College","2. Information",96.3706528322308
+"83565",44,"2. Married","1. White","1. < HS Grad","1. Industrial",76.8936025176112
+"7664",48,"2. Married","1. White","2. HS Grad","1. Industrial",94.0727147457005
+"12813",28,"2. Married","1. White","3. Some College","1. Industrial",103.90247060316
+"13483",41,"2. Married","1. White","2. HS Grad","1. Industrial",94.0727147457005
+"87163",48,"2. Married","1. White","3. Some College","2. Information",117.146816914805
+"157204",47,"2. Married","1. White","4. College Grad","2. Information",127.115743812184
+"231993",52,"2. Married","1. White","1. < HS Grad","2. Information",127.901232979118
+"8988",49,"2. Married","2. Black","3. Some College","1. Industrial",117.146816914805
+"306940",39,"2. Married","1. White","4. College Grad","2. Information",163.515863976238
+"378048",58,"2. Married","3. Asian","1. < HS Grad","2. Information",54.5981500331442
+"155829",62,"4. Divorced","1. White","3. Some College","1. Industrial",94.0727147457005
+"379034",47,"2. Married","3. Asian","4. College Grad","1. Industrial",87.9810327856054
+"153627",40,"2. Married","1. White","2. HS Grad","1. Industrial",118.884359339886
+"453110",27,"2. Married","2. Black","3. Some College","2. Information",99.6894636984864
+"376196",29,"2. Married","4. Other","1. < HS Grad","2. Information",73.7757432746946
+"228775",50,"2. Married","1. White","2. HS Grad","2. Information",123.089699847943
+"450085",38,"2. Married","1. White","4. College Grad","2. Information",145.143601176911
+"304074",42,"2. Married","1. White","3. Some College","1. Industrial",109.833985642199
+"447211",45,"2. Married","1. White","2. HS Grad","1. Industrial",148.413159102577
+"80558",32,"2. Married","1. White","4. College Grad","2. Information",84.0459576539924
+"82799",54,"2. Married","1. White","2. HS Grad","1. Industrial",94.0727147457005
+"155256",38,"2. Married","1. White","3. Some College","2. Information",94.0727147457005
+"153388",49,"2. Married","1. White","2. HS Grad","1. Industrial",118.884359339886
+"86782",32,"2. Married","1. White","2. HS Grad","1. Industrial",99.6894636984864
+"233600",52,"1. Never Married","1. White","2. HS Grad","1. Industrial",73.7757432746946
+"228164",50,"2. Married","1. White","4. College Grad","1. Industrial",78.3924668009837
+"160400",26,"1. Never Married","4. Other","4. College Grad","2. Information",38.2235828218228
+"10989",22,"1. Never Married","2. Black","3. Some College","2. Information",73.7757432746946
+"377896",39,"2. Married","1. White","4. College Grad","1. Industrial",95.2307125669819
+"153951",28,"2. Married","1. White","1. < HS Grad","2. Information",118.884359339886
+"7420",26,"2. Married","1. White","2. HS Grad","2. Information",116.442318333651
+"302226",67,"2. Married","2. Black","1. < HS Grad","2. Information",129.453644576625
+"153917",43,"5. Separated","2. Black","3. Some College","2. Information",79.8549003093467
+"374294",45,"2. Married","1. White","3. Some College","1. Industrial",148.413159102577
+"83031",33,"2. Married","1. White","2. HS Grad","2. Information",134.705375118879
+"155234",46,"2. Married","2. Black","2. HS Grad","1. Industrial",94.0727147457005
+"233131",50,"1. Never Married","1. White","2. HS Grad","2. Information",111.721782427997
+"158091",40,"2. Married","4. Other","2. HS Grad","2. Information",138.639172221569
+"374894",60,"2. Married","2. Black","1. < HS Grad","1. Industrial",93.0534873610655
+"156543",26,"1. Never Married","1. White","3. Some College","1. Industrial",108.390640020409
+"448786",40,"1. Never Married","1. White","4. College Grad","2. Information",114.475713290347
+"231509",30,"2. Married","1. White","2. HS Grad","1. Industrial",118.884359339886
+"158664",40,"2. Married","4. Other","3. Some College","2. Information",118.884359339886
+"302918",46,"2. Married","3. Asian","1. < HS Grad","1. Industrial",73.7757432746946
+"161349",38,"1. Never Married","1. White","2. HS Grad","1. Industrial",70.4760196469445
+"234661",28,"1. Never Married","2. Black","3. Some College","1. Industrial",54.5981500331442
+"377763",46,"2. Married","1. White","4. College Grad","1. Industrial",160.642475408263
+"380799",43,"2. Married","1. White","2. HS Grad","1. Industrial",65.1108537153447
+"453498",53,"2. Married","1. White","2. HS Grad","1. Industrial",82.6796372966372
+"229614",35,"5. Separated","1. White","3. Some College","2. Information",81.2832532842527
+"159758",39,"2. Married","1. White","2. HS Grad","2. Information",85.3839403789827
+"81794",39,"2. Married","3. Asian","1. < HS Grad","1. Industrial",70.4760196469445
+"303090",46,"2. Married","2. Black","3. Some College","2. Information",105.927810775063
+"154262",80,"2. Married","1. White","3. Some College","2. Information",94.0727147457005
+"84848",45,"2. Married","1. White","5. Advanced Degree","2. Information",138.299126920883
+"85794",49,"4. Divorced","1. White","2. HS Grad","2. Information",123.089699847943
+"450118",47,"4. Divorced","1. White","2. HS Grad","1. Industrial",90.4819133566401
+"9457",39,"2. Married","1. White","2. HS Grad","2. Information",87.9810327856054
+"153266",37,"2. Married","1. White","2. HS Grad","1. Industrial",85.3839403789827
+"234243",41,"2. Married","1. White","2. HS Grad","1. Industrial",101.82435207568
+"87943",29,"1. Never Married","2. Black","2. HS Grad","1. Industrial",102.870246933215
+"83985",43,"2. Married","3. Asian","5. Advanced Degree","2. Information",160.642475408263
+"14384",25,"1. Never Married","1. White","4. College Grad","2. Information",85.3839403789827
+"449798",59,"2. Married","1. White","5. Advanced Degree","2. Information",200.543262324662
+"159599",25,"1. Never Married","1. White","2. HS Grad","1. Industrial",59.7342233407467
+"81917",43,"2. Married","2. Black","1. < HS Grad","2. Information",79.8549003093467
+"158585",20,"1. Never Married","1. White","2. HS Grad","2. Information",61.1875264339915
+"154833",50,"2. Married","3. Asian","4. College Grad","2. Information",134.705375118879
+"157064",39,"1. Never Married","1. White","2. HS Grad","2. Information",109.833985642199
+"377858",32,"1. Never Married","1. White","4. College Grad","2. Information",276.778413321176
+"12364",35,"4. Divorced","1. White","4. College Grad","1. Industrial",98.5993438603892
+"14152",50,"2. Married","1. White","2. HS Grad","1. Industrial",91.6992261117042
+"155921",43,"4. Divorced","2. Black","4. College Grad","2. Information",104.921506533664
+"154732",62,"3. Widowed","1. White","1. < HS Grad","1. Industrial",62.0303046060726
+"81277",35,"2. Married","1. White","1. < HS Grad","1. Industrial",109.833985642199
+"379686",23,"1. Never Married","1. White","3. Some College","1. Industrial",61.5945831752282
+"231662",43,"2. Married","1. White","3. Some College","1. Industrial",127.115743812184
+"305114",51,"2. Married","4. Other","3. Some College","1. Industrial",139.00340805947
+"447174",37,"2. Married","1. White","2. HS Grad","1. Industrial",109.833985642199
+"161041",36,"2. Married","1. White","2. HS Grad","1. Industrial",73.2930820722881
+"14541",45,"2. Married","1. White","3. Some College","2. Information",130.982177377461
+"447722",45,"2. Married","1. White","2. HS Grad","1. Industrial",118.884359339886
+"155179",51,"2. Married","1. White","2. HS Grad","1. Industrial",104.921506533664
+"8907",33,"2. Married","1. White","3. Some College","2. Information",136.876367635184
+"160862",47,"4. Divorced","1. White","3. Some College","1. Industrial",84.0459576539924
+"12156",23,"1. Never Married","1. White","2. HS Grad","2. Information",96.3977959023552
+"307289",38,"2. Married","1. White","4. College Grad","2. Information",160.642475408263
+"9082",40,"1. Never Married","1. White","3. Some College","2. Information",73.7757432746946
+"305036",60,"2. Married","3. Asian","5. Advanced Degree","2. Information",154.68529299563
+"302117",30,"1. Never Married","1. White","4. College Grad","2. Information",101.82435207568
+"449975",26,"1. Never Married","1. White","4. College Grad","2. Information",105.927810775063
+"80475",41,"2. Married","1. White","3. Some College","1. Industrial",81.2832532842527
+"80496",42,"2. Married","1. White","2. HS Grad","1. Industrial",91.6992261117042
+"80565",43,"2. Married","1. White","1. < HS Grad","1. Industrial",90.4819133566401
+"450392",58,"2. Married","1. White","4. College Grad","1. Industrial",104.921506533664
+"86072",41,"2. Married","1. White","5. Advanced Degree","2. Information",154.868367231559
+"307301",54,"2. Married","1. White","5. Advanced Degree","1. Industrial",118.539502533774
+"86567",55,"2. Married","1. White","3. Some College","2. Information",118.884359339886
+"159847",58,"4. Divorced","2. Black","2. HS Grad","2. Information",61.5945831752282
+"453171",54,"4. Divorced","1. White","2. HS Grad","1. Industrial",108.874525834712
+"8652",26,"1. Never Married","1. White","3. Some College","2. Information",104.921506533664
+"84767",24,"1. Never Married","1. White","4. College Grad","2. Information",43.7351116779821
+"11453",22,"1. Never Married","1. White","2. HS Grad","2. Information",75.0431540173515
+"87015",62,"2. Married","2. Black","2. HS Grad","2. Information",91.6992261117042
+"10827",54,"2. Married","1. White","4. College Grad","2. Information",170.156834417801
+"450748",29,"2. Married","3. Asian","4. College Grad","1. Industrial",138.299126920883
+"83883",39,"2. Married","2. Black","2. HS Grad","1. Industrial",101.82435207568
+"156728",46,"2. Married","1. White","4. College Grad","1. Industrial",90.4819133566401
+"7436",36,"2. Married","1. White","2. HS Grad","2. Information",118.884359339886
+"84524",56,"2. Married","1. White","4. College Grad","2. Information",139.353811767493
+"159550",32,"2. Married","1. White","2. HS Grad","1. Industrial",73.7757432746946
+"451267",60,"2. Married","1. White","5. Advanced Degree","2. Information",138.299126920883
+"155944",41,"2. Married","1. White","3. Some College","2. Information",89.2428846644714
+"233097",44,"2. Married","1. White","2. HS Grad","1. Industrial",102.766280877288
+"156036",38,"2. Married","1. White","3. Some College","2. Information",23.9529444789965
+"305122",32,"2. Married","1. White","3. Some College","1. Industrial",118.884359339886
+"303218",38,"2. Married","2. Black","4. College Grad","2. Information",141.77517233318
+"301937",57,"4. Divorced","1. White","5. Advanced Degree","1. Industrial",87.9810327856054
+"12963",26,"1. Never Married","2. Black","2. HS Grad","1. Industrial",84.0459576539924
+"155631",51,"4. Divorced","1. White","1. < HS Grad","1. Industrial",87.9810327856054
+"449746",34,"1. Never Married","1. White","3. Some College","2. Information",136.517655222436
+"13497",31,"1. Never Married","1. White","3. Some College","1. Industrial",123.089699847943
+"234376",49,"2. Married","1. White","4. College Grad","1. Industrial",154.68529299563
+"381020",31,"2. Married","1. White","3. Some College","1. Industrial",76.2832778539642
+"83666",54,"4. Divorced","2. Black","4. College Grad","1. Industrial",127.115743812184
+"375928",43,"4. Divorced","1. White","4. College Grad","1. Industrial",73.7757432746946
+"157202",38,"2. Married","1. White","2. HS Grad","2. Information",118.712094053725
+"9620",28,"2. Married","1. White","1. < HS Grad","1. Industrial",61.1875264339915
+"301497",56,"2. Married","1. White","4. College Grad","1. Industrial",99.6894636984864
+"14035",52,"2. Married","1. White","5. Advanced Degree","2. Information",176.989650489877
+"302880",61,"2. Married","1. White","1. < HS Grad","1. Industrial",114.475713290347
+"448972",31,"1. Never Married","1. White","1. < HS Grad","1. Industrial",65.1108537153447
+"14307",19,"1. Never Married","1. White","2. HS Grad","1. Industrial",70.4760196469445
+"161310",44,"2. Married","1. White","3. Some College","1. Industrial",101.82435207568
+"380501",26,"2. Married","2. Black","3. Some College","2. Information",109.833985642199
+"81288",31,"2. Married","1. White","5. Advanced Degree","2. Information",176.989650489877
+"86463",36,"2. Married","1. White","4. College Grad","2. Information",94.6540203819701
+"83136",45,"2. Married","1. White","4. College Grad","2. Information",123.089699847943
+"378108",21,"1. Never Married","1. White","2. HS Grad","1. Industrial",29.3769761006037
+"85706",44,"2. Married","1. White","4. College Grad","2. Information",160.642475408263
+"87534",30,"1. Never Married","1. White","2. HS Grad","1. Industrial",70.4760196469445
+"376894",26,"1. Never Married","1. White","4. College Grad","1. Industrial",105.927810775063
+"453840",39,"2. Married","1. White","2. HS Grad","2. Information",97.4710060955894
+"452525",34,"2. Married","1. White","3. Some College","1. Industrial",114.475713290347
+"11897",48,"2. Married","1. White","1. < HS Grad","1. Industrial",152.216806827106
+"305534",51,"2. Married","1. White","2. HS Grad","2. Information",124.720446242886
+"155032",53,"2. Married","2. Black","3. Some College","2. Information",99.6894636984864
+"81944",40,"1. Never Married","2. Black","5. Advanced Degree","2. Information",91.6992261117042
+"228060",34,"2. Married","1. White","2. HS Grad","2. Information",82.6796372966372
+"8658",60,"2. Married","1. White","3. Some College","2. Information",277.601417511009
+"302756",33,"2. Married","1. White","1. < HS Grad","1. Industrial",87.9810327856054
+"228793",28,"1. Never Married","1. White","3. Some College","2. Information",104.921506533664
+"230406",36,"2. Married","1. White","5. Advanced Degree","2. Information",140.398200161944
+"7568",33,"2. Married","1. White","3. Some College","1. Industrial",114.475713290347
+"453257",48,"2. Married","3. Asian","1. < HS Grad","1. Industrial",127.115743812184
+"234332",56,"2. Married","1. White","2. HS Grad","2. Information",86.6951548289402
+"233230",26,"2. Married","1. White","4. College Grad","1. Industrial",113.567089569751
+"84078",41,"2. Married","1. White","5. Advanced Degree","1. Industrial",158.294621427791
+"82469",33,"2. Married","1. White","4. College Grad","2. Information",127.115743812184
+"87231",41,"2. Married","1. White","4. College Grad","1. Industrial",109.833985642199
+"306390",47,"2. Married","1. White","3. Some College","1. Industrial",145.143601176911
+"380971",50,"2. Married","1. White","2. HS Grad","1. Industrial",104.921506533664
+"306981",49,"1. Never Married","1. White","4. College Grad","2. Information",79.8549003093467
+"13294",50,"4. Divorced","1. White","4. College Grad","1. Industrial",118.884359339886
+"12617",38,"2. Married","1. White","5. Advanced Degree","1. Industrial",186.876677628007
+"82359",59,"2. Married","1. White","4. College Grad","1. Industrial",256.400649562425
+"448296",66,"2. Married","2. Black","2. HS Grad","2. Information",138.299126920883
+"229238",61,"2. Married","1. White","5. Advanced Degree","2. Information",107.433970610403
+"379994",44,"2. Married","1. White","2. HS Grad","1. Industrial",104.921506533664
+"374633",60,"4. Divorced","1. White","4. College Grad","2. Information",147.116689159978
+"380994",57,"2. Married","1. White","2. HS Grad","1. Industrial",81.2832532842527
+"452521",53,"2. Married","1. White","2. HS Grad","2. Information",107.903923866876
+"301537",54,"4. Divorced","1. White","5. Advanced Degree","2. Information",118.884359339886
+"156099",40,"2. Married","1. White","3. Some College","2. Information",87.9810327856054
+"233531",57,"2. Married","1. White","4. College Grad","2. Information",123.089699847943
+"159976",45,"2. Married","1. White","4. College Grad","1. Industrial",176.989650489877
+"154263",80,"2. Married","1. White","2. HS Grad","1. Industrial",82.6796372966372
+"156987",41,"5. Separated","1. White","2. HS Grad","2. Information",70.8150386167557
+"80890",45,"2. Married","1. White","2. HS Grad","2. Information",87.9810327856054
+"12188",59,"2. Married","2. Black","3. Some College","1. Industrial",104.921506533664
+"156257",21,"1. Never Married","1. White","2. HS Grad","1. Industrial",63.1888610037461
+"86137",47,"2. Married","1. White","3. Some College","1. Industrial",148.413159102577
+"13145",42,"4. Divorced","1. White","3. Some College","2. Information",111.720849360989
+"233141",41,"2. Married","1. White","2. HS Grad","2. Information",101.82435207568
+"380833",28,"1. Never Married","1. White","4. College Grad","2. Information",126.323880709786
+"86170",41,"2. Married","1. White","4. College Grad","2. Information",127.901232979118
+"86260",52,"2. Married","1. White","5. Advanced Degree","2. Information",134.705375118879
+"305903",39,"2. Married","1. White","2. HS Grad","1. Industrial",76.436454372814
+"374878",45,"1. Never Married","1. White","4. College Grad","1. Industrial",36.6737041960799
+"374341",32,"2. Married","1. White","2. HS Grad","2. Information",73.7757432746946
+"14363",45,"1. Never Married","1. White","4. College Grad","2. Information",82.6796372966372
+"156595",44,"2. Married","1. White","2. HS Grad","2. Information",91.6992261117042
+"159478",47,"2. Married","1. White","2. HS Grad","1. Industrial",82.6796372966372
+"14361",55,"2. Married","1. White","4. College Grad","2. Information",118.884359339886
+"306799",34,"1. Never Married","1. White","3. Some College","2. Information",96.9340904570115
+"87460",35,"2. Married","1. White","4. College Grad","1. Industrial",106.921814091211
+"452190",47,"5. Separated","1. White","2. HS Grad","1. Industrial",111.720849360989
+"8760",51,"2. Married","1. White","2. HS Grad","2. Information",124.720446242886
+"230517",55,"2. Married","1. White","2. HS Grad","1. Industrial",137.590142766506
+"10801",47,"1. Never Married","1. White","4. College Grad","2. Information",143.325318108778
+"155762",42,"4. Divorced","1. White","2. HS Grad","1. Industrial",85.3839403789827
+"8307",32,"1. Never Married","2. Black","3. Some College","2. Information",114.475713290347
+"379300",28,"2. Married","3. Asian","2. HS Grad","1. Industrial",72.1504556815713
+"155806",48,"2. Married","1. White","4. College Grad","1. Industrial",118.884359339886
+"159218",29,"2. Married","1. White","3. Some College","2. Information",85.3839403789827
+"451041",42,"2. Married","1. White","4. College Grad","1. Industrial",128.680488220624
+"379821",47,"2. Married","1. White","4. College Grad","2. Information",276.778413321176
+"303104",47,"2. Married","2. Black","4. College Grad","2. Information",73.7757432746946
+"233767",56,"2. Married","1. White","4. College Grad","2. Information",124.720446242886
+"86744",44,"4. Divorced","1. White","4. College Grad","2. Information",99.6894636984864
+"9431",52,"2. Married","1. White","2. HS Grad","2. Information",111.720849360989
+"376403",32,"2. Married","3. Asian","4. College Grad","1. Industrial",94.0727147457005
+"13208",37,"2. Married","1. White","1. < HS Grad","1. Industrial",73.7757432746946
+"449359",50,"2. Married","1. White","2. HS Grad","1. Industrial",99.6894636984864
+"234656",30,"2. Married","1. White","3. Some College","1. Industrial",118.884359339886
+"160883",46,"2. Married","1. White","4. College Grad","1. Industrial",117.146816914805
+"307386",51,"2. Married","1. White","4. College Grad","2. Information",94.0727147457005
+"449775",66,"2. Married","1. White","4. College Grad","2. Information",127.115743812184
+"303856",36,"2. Married","1. White","3. Some College","2. Information",125.525498433836
+"229150",37,"2. Married","1. White","2. HS Grad","2. Information",169.073540049428
+"10772",63,"2. Married","1. White","2. HS Grad","2. Information",136.303997562054
+"377328",31,"2. Married","1. White","4. College Grad","1. Industrial",116.265324062503
+"154985",43,"1. Never Married","1. White","1. < HS Grad","1. Industrial",54.5981500331442
+"87716",48,"2. Married","1. White","2. HS Grad","1. Industrial",48.185650217039
+"84219",45,"2. Married","3. Asian","5. Advanced Degree","2. Information",272.294783220064
+"160598",38,"2. Married","1. White","4. College Grad","2. Information",268.266292012557
+"7816",43,"5. Separated","1. White","4. College Grad","2. Information",109.833985642199
+"13782",46,"2. Married","1. White","5. Advanced Degree","1. Industrial",85.3839403789827
+"306022",52,"2. Married","1. White","3. Some College","1. Industrial",86.6951548289402
+"11736",43,"2. Married","1. White","5. Advanced Degree","2. Information",148.413159102577
+"84898",44,"2. Married","1. White","4. College Grad","2. Information",71.1519565433031
+"160912",29,"2. Married","1. White","4. College Grad","2. Information",125.525498433836
+"305951",20,"1. Never Married","1. White","3. Some College","1. Industrial",70.8150386167557
+"7863",41,"4. Divorced","4. Other","3. Some College","2. Information",117.146816914805
+"160718",31,"2. Married","1. White","3. Some College","1. Industrial",92.6581301668597
+"9064",29,"1. Never Married","1. White","2. HS Grad","2. Information",79.8549003093467
+"304602",70,"2. Married","1. White","1. < HS Grad","2. Information",100.764272842107
+"9521",48,"2. Married","1. White","3. Some College","1. Industrial",123.908567597957
+"378317",43,"2. Married","1. White","4. College Grad","2. Information",196.125272594255
+"8402",71,"3. Widowed","1. White","3. Some College","1. Industrial",118.884359339886
+"303301",23,"1. Never Married","1. White","1. < HS Grad","1. Industrial",87.9810327856054
+"377548",29,"2. Married","1. White","3. Some College","1. Industrial",101.82435207568
+"160072",22,"1. Never Married","1. White","3. Some College","2. Information",81.2832532842527
+"380862",50,"2. Married","1. White","4. College Grad","1. Industrial",82.6796372966372
+"158416",42,"2. Married","1. White","3. Some College","2. Information",118.884359339886
+"304890",52,"2. Married","4. Other","1. < HS Grad","2. Information",68.111994065327
+"452589",43,"2. Married","1. White","1. < HS Grad","2. Information",126.323880709786
+"452699",66,"2. Married","1. White","4. College Grad","1. Industrial",109.833985642199
+"306371",35,"2. Married","1. White","4. College Grad","1. Industrial",130.982177377461
+"154423",44,"1. Never Married","3. Asian","5. Advanced Degree","2. Information",130.982177377461
+"155676",37,"2. Married","1. White","2. HS Grad","1. Industrial",99.6894636984864
+"12275",33,"1. Never Married","2. Black","2. HS Grad","1. Industrial",73.7757432746946
+"378289",41,"2. Married","1. White","4. College Grad","2. Information",176.989650489877
+"8978",42,"2. Married","1. White","3. Some College","2. Information",134.705375118879
+"154400",23,"1. Never Married","1. White","1. < HS Grad","1. Industrial",54.5981500331442
+"301716",64,"2. Married","1. White","2. HS Grad","2. Information",90.4819133566401
+"233965",20,"1. Never Married","1. White","2. HS Grad","1. Industrial",70.4760196469445
+"8562",43,"2. Married","1. White","5. Advanced Degree","2. Information",277.601417511009
+"231536",42,"2. Married","1. White","4. College Grad","2. Information",148.413159102577
+"11386",43,"2. Married","1. White","4. College Grad","1. Industrial",109.833985642199
+"227859",18,"1. Never Married","1. White","2. HS Grad","1. Industrial",73.7757432746946
+"449407",63,"2. Married","1. White","5. Advanced Degree","2. Information",267.901086855275
+"233828",38,"2. Married","1. White","5. Advanced Degree","2. Information",200.543262324662
+"10377",41,"2. Married","1. White","3. Some College","2. Information",87.9810327856054
+"230110",37,"2. Married","1. White","1. < HS Grad","1. Industrial",92.8958447894966
+"8265",39,"2. Married","1. White","4. College Grad","1. Industrial",87.9810327856054
+"85939",47,"2. Married","1. White","2. HS Grad","1. Industrial",94.0727147457005
+"158022",40,"1. Never Married","1. White","3. Some College","1. Industrial",87.9810327856054
+"450366",30,"2. Married","1. White","3. Some College","1. Industrial",105.927810775063
+"378239",44,"2. Married","1. White","2. HS Grad","1. Industrial",79.8549003093467
+"451298",36,"2. Married","3. Asian","4. College Grad","2. Information",148.413159102577
+"234574",51,"2. Married","1. White","1. < HS Grad","1. Industrial",101.402052302992
+"13820",41,"1. Never Married","2. Black","2. HS Grad","1. Industrial",65.1108537153447
+"158555",44,"2. Married","1. White","2. HS Grad","1. Industrial",73.7757432746946
+"155813",25,"1. Never Married","1. White","3. Some College","1. Industrial",94.0727147457005
+"304171",52,"2. Married","1. White","3. Some College","1. Industrial",118.884359339886
+"450515",44,"2. Married","1. White","2. HS Grad","2. Information",109.833985642199
+"231742",33,"2. Married","1. White","5. Advanced Degree","1. Industrial",151.591484239814
+"227949",43,"5. Separated","1. White","3. Some College","2. Information",101.82435207568
+"451359",40,"1. Never Married","1. White","4. College Grad","1. Industrial",163.515863976238
+"376315",38,"1. Never Married","1. White","2. HS Grad","1. Industrial",89.4924795180001
+"7747",29,"2. Married","1. White","5. Advanced Degree","2. Information",115.375038556391
+"157328",39,"2. Married","3. Asian","1. < HS Grad","1. Industrial",68.7480877337669
+"160476",50,"2. Married","1. White","5. Advanced Degree","2. Information",143.808556824369
+"12284",56,"4. Divorced","2. Black","3. Some College","2. Information",75.3556793180091
+"10311",45,"2. Married","1. White","3. Some College","1. Industrial",127.115743812184
+"82621",37,"2. Married","1. White","3. Some College","2. Information",176.989650489877
+"13255",36,"2. Married","2. Black","4. College Grad","1. Industrial",127.115743812184
+"450927",37,"2. Married","1. White","5. Advanced Degree","2. Information",267.901086855275
+"85993",39,"2. Married","1. White","3. Some College","2. Information",91.6992261117042
+"378229",45,"2. Married","1. White","5. Advanced Degree","2. Information",160.642475408263
+"449815",40,"1. Never Married","2. Black","4. College Grad","1. Industrial",136.876367635184
+"229998",51,"2. Married","1. White","5. Advanced Degree","2. Information",153.457515308961
+"306163",43,"2. Married","1. White","2. HS Grad","1. Industrial",65.1108537153447
+"160061",28,"2. Married","1. White","2. HS Grad","1. Industrial",136.876367635184
+"374624",36,"4. Divorced","1. White","2. HS Grad","2. Information",56.9055391446732
+"87712",38,"2. Married","1. White","2. HS Grad","1. Industrial",48.185650217039
+"301419",38,"2. Married","1. White","5. Advanced Degree","2. Information",171.765132627508
+"452996",71,"2. Married","1. White","2. HS Grad","1. Industrial",98.5993438603892
+"158400",40,"2. Married","3. Asian","5. Advanced Degree","2. Information",299.262976763971
+"11861",25,"1. Never Married","2. Black","2. HS Grad","2. Information",77.4976813877358
+"161216",46,"2. Married","1. White","2. HS Grad","1. Industrial",141.77517233318
+"156545",49,"1. Never Married","1. White","5. Advanced Degree","1. Industrial",143.134940811134
+"304371",34,"2. Married","1. White","5. Advanced Degree","2. Information",163.515863976238
+"155402",40,"2. Married","1. White","5. Advanced Degree","2. Information",133.232350826567
+"307501",29,"1. Never Married","1. White","2. HS Grad","1. Industrial",73.7757432746946
+"155886",58,"2. Married","1. White","1. < HS Grad","1. Industrial",87.9810327856054
+"374720",52,"2. Married","1. White","2. HS Grad","1. Industrial",136.876367635184
+"449072",30,"1. Never Married","2. Black","3. Some College","1. Industrial",94.0727147457005
+"302202",54,"2. Married","3. Asian","2. HS Grad","1. Industrial",79.8549003093467
+"11180",37,"2. Married","1. White","5. Advanced Degree","2. Information",134.705375118879
+"447235",62,"2. Married","1. White","2. HS Grad","2. Information",109.833985642199
+"304337",47,"2. Married","1. White","3. Some College","2. Information",104.921506533664
+"159650",51,"2. Married","1. White","5. Advanced Degree","1. Industrial",148.413159102577
+"305890",58,"2. Married","1. White","2. HS Grad","1. Industrial",104.921506533664
+"306575",32,"2. Married","1. White","3. Some College","2. Information",101.82435207568
+"306484",49,"2. Married","1. White","2. HS Grad","2. Information",79.8549003093467
+"379428",44,"2. Married","1. White","4. College Grad","1. Industrial",76.4058510654515
+"82810",30,"4. Divorced","1. White","2. HS Grad","1. Industrial",88.9923771888426
+"159201",44,"2. Married","1. White","3. Some College","1. Industrial",99.6894636984864
+"84893",63,"2. Married","1. White","4. College Grad","2. Information",118.019753340006
+"304411",42,"2. Married","2. Black","2. HS Grad","2. Information",89.4924795180001
+"304184",59,"2. Married","3. Asian","2. HS Grad","2. Information",160.409701962289
+"8804",40,"2. Married","1. White","4. College Grad","1. Industrial",130.982177377461
+"306214",30,"2. Married","1. White","2. HS Grad","1. Industrial",93.8786834850373
